@@ -1,0 +1,24 @@
+{
+  "historic": [
+    {
+      "operation": "2 + 2",
+      "result": "4",
+      "date": "09/04/2021 09:47hrs"
+    },
+    {
+      "operation": "2 - 2",
+      "result": "0",
+      "date": "09/04/2021 10:47hrs"
+    },
+    {
+      "operation": "2 * 2",
+      "result": "4",
+      "date": "09/04/2021 11:47hrs"
+    },
+    {
+      "operation": "2 / 2",
+      "result": "0",
+      "date": "09/04/2021 12:47hrs"
+    }
+  ]
+}
